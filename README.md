@@ -1,6 +1,6 @@
 # Krish Dhansinghani
 
-# Ticket-API-Mini-Project
+# Ticker-API-Mini-Project
 A mini ticker api project to lookup, find min price, and max price of given stock ticker
 
 # Instructions:
